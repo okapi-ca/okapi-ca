@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-There are 10 types of people. Those who understand binaire and those who who don’t. 
+There are 10 types of people in the universe. Those who understand binaire and those who who don’t. 
 
 
 Here are some ideas to get you started:
