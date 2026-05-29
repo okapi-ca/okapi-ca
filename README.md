@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-**okapi-ca/okapi-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub There are 10 types of people. Those who understand binaire and those who who There are 10 types of people. Those who understand binaire and those who who don’t. 
+**okapi-ca/okapi-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your 
 
 There are 10 types of people. Those who understand binaire and those who who don’t. 
+
 
 Here are some ideas to get you started:
 
